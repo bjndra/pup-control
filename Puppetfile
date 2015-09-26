@@ -2,7 +2,7 @@ forge "https://forge.puppetlabs.com/"
 
 mod 'users',
   :git => 'git@github.com:bjndra/users.git',
-  :ref => '67540f1b182876dcd98b4c6669f2380b8c539bda'
+  :ref => 'bdaf6d3d722bdc08b08d4401c4ad79961b71e5f3'
 mod 'stdlib',
   :git => 'https://github.com/puppetlabs/puppetlabs-stdlib.git',
   :tag => '4.6.0'
