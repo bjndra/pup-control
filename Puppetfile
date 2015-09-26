@@ -11,6 +11,3 @@ mod 'concat',
   :git => 'https://github.com/puppetlabs/puppetlabs-concat.git',
   :tag => '1.2.4'
 
-mod 'inifile'
-  :git => 'git@github.com:puppetlabs/puppetlabs-inifile.git'
-  :tag => '1.4.2'
