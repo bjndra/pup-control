@@ -1,8 +1,8 @@
 forge "https://forge.puppetlabs.com/"
 
-mod 'first-r10k',
-  :git => 'git@github.com:bjndra/r10k.git',
-  :ref => '010e1b03e3450f17f41957e748d52d09d526d6d6'
+mod 'users',
+  :git => 'git@github.com:bjndra/users.git',
+  :ref => '67540f1b182876dcd98b4c6669f2380b8c539bda'
 mod 'stdlib',
   :git => 'https://github.com/puppetlabs/puppetlabs-stdlib.git',
   :tag => '4.6.0'
